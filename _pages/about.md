@@ -9,9 +9,9 @@ profile:
   image: lablogo-gutphil.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room 214, National Institute of Molecular Biology and Biotechnology</p>
-    <p>University of the Philippines Diliman</p>
-    <p>1101 Quezon City, Philippines</p>
+    <p>Room 214, NIMBB</p>
+    <p>UP Diliman</p>
+    <p>1101 Quezon City, PH</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
