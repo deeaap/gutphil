@@ -31,7 +31,7 @@ Established in 2026, the GutPhil lab carries on a research programme of **“gas
 
 The lab is part of the “deeaap” unit (Devo-Evo-Eco of Aquatic Animals of the Philippines) alongside <a href="https://deeaap.github.io/laot/"> Dr Paul Gerald Layague Sanchez’ lab LAOT </a>.
 
-</p> <p><strong>Ongoing research</strong></p> 
+<strong>Ongoing research</strong> 
 <ul> 
   <li>Endocrine control of gastric functionalisation during metamorphosis of Philippine fish species </li> 
   <li>Gut regeneration and molecular patterning in marine invertebrates of the Philippines (in collaboration with <a href="https://deeaap.github.io/laot">Dr. Paul Gerald Layague Sanchez</a>) </li> 
